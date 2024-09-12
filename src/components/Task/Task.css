@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+  width: 270px;
+  height: 270px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding-inline: 15px;
+  background-color: #fff4e0;
+}
